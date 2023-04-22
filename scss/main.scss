@@ -1,0 +1,13 @@
+$bc: rgb(197, 79, 79);
+$col-1: rgb(247, 181, 144);
+$col-2: rgb(118, 187, 53);
+
+.main {
+    background-color: $bc;
+    &__title {
+        color: $col-1;
+    }
+    &__text {
+        color:$col-2;
+    }
+}

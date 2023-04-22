@@ -1,0 +1,26 @@
+.page {
+  text-align: center;
+}
+
+.header__text {
+  color: #f8d821;
+}
+
+.header {
+  background-color: #4760cf;
+}
+.header__title {
+  color: #fdfb94;
+}
+
+.main {
+  background-color: #c54f4f;
+}
+.main__title {
+  color: #f7b590;
+}
+.main__text {
+  color: #76bb35;
+}
+
+/*# sourceMappingURL=style.css.map */

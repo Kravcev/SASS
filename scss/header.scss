@@ -1,0 +1,14 @@
+$col: rgb(253, 251, 148);
+
+%c {
+    color:rgb(248, 216, 33);
+}
+.header {
+    background-color: rgb(71, 96, 207);
+    &__title {
+        color:$col;
+    }
+    &__text {
+        @extend %c;
+    }
+}
